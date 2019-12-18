@@ -1,5 +1,7 @@
 # ActiveBuilder
 
+[![Build Status](https://travis-ci.com/philiplambok/active_builder.svg?branch=master)](https://travis-ci.com/philiplambok/active_builder)
+
 ActiveBuilder is a simple gem to help you cleaning up your long arguments/params.
 
 ## Installation
